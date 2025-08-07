@@ -1,7 +1,7 @@
 {
   "name": "Computer Dinero",
   "symbol": "WEBDN",
-  "description": "Computer Dinero is a crypto made for readability, there's 10Trillion initial mint with only 1 decimal place.  Easy to grasp how many you have.  The initial launch released half of the total supply, the other half is locked away to either be burned or used for staking, @computerdinero",
+  "description": "Computer Dinero is a crypto made for readability. There's a 10 trillion initial mint with only 1 decimal place—easy to grasp how many you have. Half of the supply was released at launch; the other half is locked for burning or staking. Follow us on Twitter: https://twitter.com/computerdinero",
   "image": "https://raw.githubusercontent.com/computerdinero/computerdinero/main/dinero.png",
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Decimals",
-      "value": "One"
+      "value": 1
     }
   ],
   "seller_fee_basis_points": 0,
@@ -24,8 +24,9 @@
     "creators": [
       {
         "address": "AVVcv66T1WpRskHu5GXzWo5vE7ay4Ejx2BiVo7xoChd5",
+        "verified": true,
         "share": 100
       }
     ]
   }
-}  
+}
