@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Total Supply",
-      "value": "10 Trillion"
+      "value": "1 Trillion"
     },
     {
       "trait_type": "Decimals",
-      "value": 1
+      "value": 2
     }
   ],
   "seller_fee_basis_points": 0,
