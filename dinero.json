@@ -1,7 +1,7 @@
 {
-  "name": "Computer Dinero",
-  "symbol": "WEBDN",
-  "description": "Computer Dinero is a crypto made for readability. There's 1 trillion initial mint with 2 decimal places like normal money. Half of the supply was released at launch; the other half is locked for burning or staking. Follow us on Twitter: https://twitter.com/computerdinero",
+  "name": "Solana Dinero",
+  "symbol": "SOLDN",
+  "description": "Solana Dinero is a crypto made for readability. There's 1 trillion initial mint with 2 decimal places like normal money. Half of the supply was released at launch; the other half is locked for burning or staking. Join us on Our Socials: @solanadinero",
   "image": "https://raw.githubusercontent.com/computerdinero/computerdinero/main/dinero.png",
   "attributes": [
     {
