@@ -2,7 +2,7 @@
   "name": "Solana Dinero",
   "symbol": "SOLDN",
   "description": "Solana Dinero is a crypto made for readability. 2 trillion initial mint with 2 decimal places, like normal money. Half will be pooled during launch and the other half is saved for potential burns or staking. Join us on Our Socials: @solanadinero",
-  "image": "https://raw.githubusercontent.com/computerdinero/computerdinero/main/dinero.png",
+  "image": "https://raw.githubusercontent.com/computerdinero/computerdinero/main/soldn.png",
   "attributes": [
     {
       "trait_type": "Total Supply",
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/solanadinero/computerdinero/main/dinero.png",
+        "uri": "https://raw.githubusercontent.com/solanadinero/computerdinero/main/soldn.png",
         "type": "image/png"
       }
     ],
