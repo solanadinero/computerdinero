@@ -1,10 +1,10 @@
 {
   "name": "Solana Dinero",
   "symbol": "SOLDN",
-  "description": "Solana Dinero $SOLDN: We do nearly nothing-on purpose.  Low effort means no unnecessary costs, so we can use the majority of LP profits to reinvest.  SOLDN launched against 0.029SOL and has a 2 trillion non-mintable supply with 2 decimal places. Check our site solanadinero.com and follow @solanadinero on socials",
+  "description": "Solana Dinero ($SOLDN): We do nearly nothing—on purpose. Low effort means low overhead, so most LP profits go straight to reinvestment. SOLDN launched against 0.029 SOL with a 2 trillion non-mintable supply and 2 decimal places. Visit solanadinero.com and follow @solanadinero on socials.",
   "image": "https://raw.githubusercontent.com/computerdinero/computerdinero/main/soldn.png",
   "attributes": [
-   {
+    {
       "trait_type": "Total Supply",
       "value": "2 Trillion"
     },
